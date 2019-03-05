@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="newGame">Start New Game</string>
+    <string name="Welcome">Welcome to Chess05!</string>
+    <string name="oldGame">View Past Game</string>
+    <string name="Draw">Draw</string>
+    <string name="Resign">Resign</string>
+    <string name="AI">AI Move</string>
+    <string name="Undo">Undo</string>
+    <string name="select">Select</string>
+    <string name="back">Back</string>
+    <string name="saveQues">Would you like to save the completed game?</string>
+    <string name="saveGame">Yes, save this game</string>
+    <string name="noSave">No, do not save this game</string>
+    <string name="Save">Save</string>
+    <string name="GameName">Game Name</string>
+    <string name="Thanks">Thank you for playing!!</string>
+    <string name="MainMenu">Main Menu</string>
+    <string name="Quit">Quit</string>
+    <string name="title_activity_sort_buttons">SortButtons</string>
+    <string name="sort">Select sorting constraint:</string>
+    <string name="date">By Date</string>
+    <string name="name">By Name</string>
+    <string name="Next">Next Move</string>
+    <string name="mm">Return to Main Menu</string>
+    <string name="clickgame">Click on a game\'s name in the list below to begin walkthrough.</string>
+    <string name="turn">Whose turn?</string>
+</resources>
